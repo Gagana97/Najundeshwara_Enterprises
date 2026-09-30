@@ -1,0 +1,17 @@
+main {
+  min-height: 60vh;
+}
+
+.page-wrapper {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
