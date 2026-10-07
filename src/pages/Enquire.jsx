@@ -264,7 +264,7 @@ const Enquire = () => {
               <div className="form-group">
 
                 <label>
-                  Company / Contact Name *
+                Name/Company Name *
                 </label>
 
                 <input
@@ -419,6 +419,7 @@ const Enquire = () => {
 
                       <option>Under Construction</option>
                       <option>Existing Building</option>
+                      <option>Building Completion Expected Soon</option>
 
                     </select>
 

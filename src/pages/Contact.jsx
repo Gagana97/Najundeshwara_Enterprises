@@ -252,13 +252,15 @@ const Contact = () => {
         <div className="contact-map">
 
           <iframe
-            title="Nanjundeshwara Enterprises Location"
-            src="https://www.google.com/maps?q=Basement%2C%20201%2C%20Swamy%20Vivekananda%20Rd%2C%202nd%20Cross%20Rd%2C%20Double%20Rd%2C%20Narayana%20Nagar%2C%201st%20Block%2C%20Raghuvanahalli%2C%20Bengaluru%2C%20Karnataka%20560062&output=embed"
-            loading="lazy"
-            allowFullScreen
-            referrerPolicy="no-referrer-when-downgrade"
-          />
-
+  title="Nanjundeshwara Enterprises Location"
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.433318592147!2d77.5505989745452!3d12.879834916884558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3fad7f7d258b%3A0xc0857c4f972de8cd!2sNanjundeshwara%20Enterprises!5e0!3m2!1sen!2sin!4v1791360891287!5m2!1sen!2sin"
+  width="100%"
+  height="400"
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="strict-origin-when-cross-origin"
+/>
         </div>
 
       </section>
